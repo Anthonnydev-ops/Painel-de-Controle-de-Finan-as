@@ -121,7 +121,7 @@ controle-financeiro/
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/controle-financeiro.git
+https://github.com/Anthonnydev-ops/Painel-de-Controle-de-Finan-as.git
 ```
 
 ### Entre na pasta do projeto
