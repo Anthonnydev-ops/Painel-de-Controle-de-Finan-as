@@ -86,31 +86,12 @@ Lista de todas as movimentações cadastradas contendo:
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```bash
-controle-financeiro/
-│
-├── public/
-│
-├── src/
-│   ├── components/
-│   ├── App.jsx
-│   ├── main.jsx
-│   └── styles/
-│
-├── package.json
-└── README.md
-```
-
----
-
 ## ⚙️ Como Executar
 
 ### Clone o repositório
 
 ```bash
-git clone https://github.com/seu-usuario/controle-financeiro.git
+https://github.com/Anthonnydev-ops/Painel-de-Controle-de-Finan-as.git
 ```
 
 ### Entre na pasta do projeto
