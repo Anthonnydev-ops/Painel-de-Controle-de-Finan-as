@@ -25,20 +25,6 @@ A aplicação realiza automaticamente o cálculo dos valores totais e exibe um h
 
 ---
 
-## 📷 Demonstração
-
-### Dashboard Principal
-
-![Dashboard](./assets/dashboard.png)
-
-### Cadastro de Transações
-
-![Cadastro](./assets/transacao.png)
-
-> Adicione seus prints na pasta `assets` para que apareçam diretamente no GitHub.
-
----
-
 ## 🎯 Como Funciona
 
 ### Adicionando uma Transação
